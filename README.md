@@ -1,4 +1,4 @@
-# 🌐 Lingua - Bot
+# 🌐 Lingua - Bot (Website for a AI Based Learning System)
 
 ## 📖 Overview
 This repository includes a website for a AI Based Learning system, named ‘Lingua Bot’. Lingua Bot is a web application which assists professionals and students to improve and enhance their language 
